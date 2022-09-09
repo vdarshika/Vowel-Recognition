@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\NewFilter1">
+      <UniqueIdentifier>{b0fe144b-b46c-4165-ba05-44e40a55b96c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="test_new.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="dc_shift_file.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_1.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_2.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_3.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_4.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_5.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_8.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_9.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_10.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_6.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="214101014_a_7.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="ref_a.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="ref_e.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="ref_i.txt" />
+    <None Include="ref_o.txt" />
+    <None Include="ref_u.txt" />
+    <None Include="214101014_e_1.txt" />
+    <None Include="214101014_e_2.txt" />
+    <None Include="214101014_e_3.txt" />
+    <None Include="214101014_e_4.txt" />
+    <None Include="214101014_e_5.txt" />
+    <None Include="214101014_e_6.txt" />
+    <None Include="214101014_e_7.txt" />
+    <None Include="214101014_e_8.txt" />
+    <None Include="214101014_e_9.txt" />
+    <None Include="214101014_e_10.txt" />
+    <None Include="test_a.txt" />
+    <None Include="test_e.txt" />
+    <None Include="test_i.txt" />
+    <None Include="test_o.txt" />
+    <None Include="test_u.txt" />
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_11.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_12.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_13.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_14.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_15.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_16.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_17.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_18.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_19.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_a_20.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_11.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_12.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_13.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_14.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_15.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_16.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_17.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_18.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_19.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_e_20.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_1.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_2.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_3.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_4.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_5.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_7.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_8.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_9.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_10.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_11.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_12.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_13.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_14.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_15.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_16.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_17.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_18.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_19.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_i_20.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_1.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_2.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_3.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_4.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_5.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_6.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_7.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_8.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_9.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_10.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_11.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_12.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_13.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_14.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_15.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_16.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_17.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_18.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_19.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_o_20.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_1.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_2.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_3.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_4.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_5.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_6.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_8.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_9.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_10.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_11.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_12.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_13.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_14.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_15.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_16.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_17.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_18.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_19.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\214101014_VOWELS_Assgn_2\214101014_u_20.txt">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vowel_recognition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,77 @@
+﻿Build started 12-09-2021 22:32:25.
+     1>Project "C:\Users\Darshika\OneDrive\Desktop\Speech Processing DATA\214101014_Vowel_Recognition\vowel_recognition\vowel_recognition\vowel_recognition.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\vowel_recognition.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\vowel_recognition.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt vowel_recognition.cpp
+         vowel_recognition.cpp
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(120): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(167): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(168): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(174): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(188): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(196): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(254): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(302): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(309): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(323): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(331): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(370): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(391): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(392): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(395): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(401): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(402): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(287): warning C4101: 'file_name' : unreferenced local variable
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(440): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\darshika\onedrive\desktop\speech processing data\214101014_vowel_recognition\vowel_recognition\vowel_recognition\vowel_recognition.cpp(448): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Darshika\OneDrive\Desktop\Speech Processing DATA\214101014_Vowel_Recognition\vowel_recognition\Debug\vowel_recognition.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\vowel_recognition.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Darshika\OneDrive\Desktop\Speech Processing DATA\214101014_Vowel_Recognition\vowel_recognition\Debug\vowel_recognition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Darshika\OneDrive\Desktop\Speech Processing DATA\214101014_Vowel_Recognition\vowel_recognition\Debug\vowel_recognition.lib" /MACHINE:X86 Debug\vowel_recognition.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\vowel_recognition.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\vowel_recognition.exe.embed.manifest" /manifest Debug\vowel_recognition.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         vowel_recognition.vcxproj -> C:\Users\Darshika\OneDrive\Desktop\Speech Processing DATA\214101014_Vowel_Recognition\vowel_recognition\Debug\vowel_recognition.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\vowel_recognition.unsuccessfulbuild".
+         Touching "Debug\vowel_recognition.lastbuildstate".
+     1>Done Building Project "C:\Users\Darshika\OneDrive\Desktop\Speech Processing DATA\214101014_Vowel_Recognition\vowel_recognition\vowel_recognition\vowel_recognition.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.71
